@@ -1,1 +1,1 @@
-# Slava55555.github.io
+![Leetcode Stats](https://leetcard.jacoblin.cool/Slava_Buchnev)
