@@ -1,7 +1,7 @@
 <h1 align="center">🌐Hello! I'm Buchnev Vyacheslav</h1>
 <div align="center">
     <h2>💡About me</h2>
-    <a href="https://drive.google.com/file/d/14im_sOkllTLmjXmyBeNZKwPaxYMwlvgR/view?usp=sharing"> <img height="40" src="https://img.shields.io/badge/resume-pdf-green.svg"></a>
+    <a href="https://drive.google.com/file/d/1q60f4HsVwuIRwW4SLFqNQ452rXijdX0w/view?usp=sharing"> <img height="40" src="https://img.shields.io/badge/resume-pdf-green.svg"></a>
     <p>I'm a backend developer from Russia👨‍💻</p>
 </div>
 <div align="center">
